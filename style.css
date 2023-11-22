@@ -1,0 +1,22 @@
+.judul-add {
+    color: white;
+    font-weight:600;
+    background-color: rgb(49, 108, 244);
+    border-radius: 5px;
+    padding: 10px;
+    text-align: center;
+}
+.judul-web{
+    color: rgb(255, 255, 255);
+    background-color: black;
+    font-weight: 600;
+    padding: 10px;
+    text-align: center;
+    border-radius: 10px;
+}
+.judul-web span{
+    color: rgb(0, 0, 0);
+    background-color: rgb(41, 144, 255);
+    padding: 3px 5px;
+    border-radius: 3px;
+}
